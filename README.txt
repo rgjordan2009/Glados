@@ -1,0 +1,1 @@
+La partie du code entre les guillemets « « « … » » » est une partie du code qui devais gérer le faite que la commande « move » soit remplacer par la commande kill si le Roi est à proximité d’un citoyen(assassin) mais par manque de temps j’ai du laisser tomber.
